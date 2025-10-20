@@ -15,7 +15,7 @@ I'm a Computer Science student at Aalborg University with a passion for technolo
 
 ## 🌐 Website
 
-[Personal Website](https://your-website.com) <!-- Replace with your actual URL when ready -->
+<!-- [Personal Website](https://devmathias.com) Replace with your actual URL when ready -->
 
 ---
 
