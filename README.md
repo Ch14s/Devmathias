@@ -1,10 +1,24 @@
-- 👋 Hi, I’m @Devmathias
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi, I'm Ch14s 👋
 
-<!---
-Devmathias/Devmathias is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a Computer Science student at Aalborg University with a passion for technology at every level of the stack. My interests include low-level programming, object-oriented design, and IT infrastructure.
+
+## 🛠️ Technical Skills
+
+- **Programming Languages:** C, C++, Python, Java
+- **Technologies & Tools:** Linux, Git, Docker, Bash, Virtualization
+- **Interests:** Systems programming, networking, automation, and best practices in software engineering
+
+## 🎓 Education
+
+- **BSc in Computer Science**  
+  Aalborg University
+
+## 🌐 Website
+
+[Personal Website](https://your-website.com) <!-- Replace with your actual URL when ready -->
+
+---
+
+<p align="center">
+  <em>Always eager to learn, build, and solve complex challenges.</em>
+</p>
