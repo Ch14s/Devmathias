@@ -12,11 +12,10 @@ I'm a Computer Science student at Aalborg University with a passion for technolo
 
 - **BSc in Computer Science**  
   Aalborg University
-
+<!--
 ## 🌐 Website
-
-<!-- [Personal Website](https://devmathias.com) Replace with your actual URL when ready -->
-
+[Personal Website](https://www.ch14s.dev)
+-->
 ---
 
 <p align="center">
